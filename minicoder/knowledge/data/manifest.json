@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "documents": [
+    {
+      "document_id": "battery-care",
+      "path": "battery-care.md",
+      "title": "动力电池日常保养指南",
+      "category": "maintenance",
+      "component": "traction_battery",
+      "vehicle_models": ["MC-EV1", "MC-EV2"],
+      "version": "1.0",
+      "updated_at": "2026-08-03"
+    },
+    {
+      "document_id": "charging-guide",
+      "path": "charging-guide.md",
+      "title": "车辆充电与补能指南",
+      "category": "charging",
+      "component": "charging_system",
+      "vehicle_models": ["MC-EV1", "MC-EV2"],
+      "version": "1.0",
+      "updated_at": "2026-08-03"
+    },
+    {
+      "document_id": "climate-guide",
+      "path": "climate-guide.md",
+      "title": "座舱空调使用指南",
+      "category": "operation",
+      "component": "climate",
+      "vehicle_models": ["MC-EV1", "MC-EV2"],
+      "version": "1.0",
+      "updated_at": "2026-08-03"
+    },
+    {
+      "document_id": "warning-lights",
+      "path": "warning-lights.md",
+      "title": "常见警告灯处置说明",
+      "category": "warning",
+      "component": "vehicle_diagnostics",
+      "vehicle_models": ["MC-EV1"],
+      "version": "1.0",
+      "updated_at": "2026-08-03"
+    },
+    {
+      "document_id": "trip-planning",
+      "path": "trip-planning.md",
+      "title": "纯电长途行程规划指南",
+      "category": "trip",
+      "component": "energy_planning",
+      "vehicle_models": ["MC-EV1", "MC-EV2"],
+      "version": "1.0",
+      "updated_at": "2026-08-03"
+    }
+  ]
+}
