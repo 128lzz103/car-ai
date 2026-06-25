@@ -1,0 +1,38 @@
+[
+  {
+    "station_id": "CS-NJ-001",
+    "name": "南京南站超级充电站",
+    "city": "南京",
+    "location": {"name": "南京南站", "latitude": 31.9688, "longitude": 118.7920},
+    "available_piles": 6,
+    "power_kw": 180,
+    "connector_types": ["GB/T"]
+  },
+  {
+    "station_id": "CS-WX-001",
+    "name": "无锡东服务区充电站",
+    "city": "无锡",
+    "location": {"name": "无锡东服务区", "latitude": 31.5700, "longitude": 120.4200},
+    "available_piles": 4,
+    "power_kw": 240,
+    "connector_types": ["GB/T"]
+  },
+  {
+    "station_id": "CS-SZ-001",
+    "name": "苏州园区充电中心",
+    "city": "苏州",
+    "location": {"name": "苏州工业园区", "latitude": 31.3000, "longitude": 120.7100},
+    "available_piles": 8,
+    "power_kw": 180,
+    "connector_types": ["GB/T"]
+  },
+  {
+    "station_id": "CS-SH-001",
+    "name": "上海虹桥充电中心",
+    "city": "上海",
+    "location": {"name": "上海虹桥站", "latitude": 31.1969, "longitude": 121.3270},
+    "available_piles": 10,
+    "power_kw": 250,
+    "connector_types": ["GB/T"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "route_id": "route-nj-xh",
+    "origin": "南京新街口",
+    "destination": "上海虹桥站",
+    "distance_km": 295,
+    "duration_minutes": 210,
+    "corridor": ["南京", "镇江", "无锡", "苏州", "上海"]
+  },
+  {
+    "route_id": "route-nj-ns",
+    "origin": "南京新街口",
+    "destination": "南京南站",
+    "distance_km": 12,
+    "duration_minutes": 32,
+    "corridor": ["南京"]
+  },
+  {
+    "route_id": "route-ns-xh",
+    "origin": "南京南站",
+    "destination": "上海虹桥站",
+    "distance_km": 282,
+    "duration_minutes": 195,
+    "corridor": ["南京", "镇江", "无锡", "苏州", "上海"]
+  }
+]

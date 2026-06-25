@@ -1,0 +1,38 @@
+{
+  "A102": {
+    "model": "MC-EV1",
+    "battery_soc": 38,
+    "estimated_range_km": 142,
+    "odometer_km": 18620,
+    "charging_state": "disconnected",
+    "online": true,
+    "battery_capacity_kwh": 60,
+    "consumption_kwh_per_100km": 16.2,
+    "climate": {"enabled": false, "target_temperature": 22},
+    "location": {"name": "南京新街口", "latitude": 32.0415, "longitude": 118.7842}
+  },
+  "A103": {
+    "model": "MC-EV2",
+    "battery_soc": 82,
+    "estimated_range_km": 410,
+    "odometer_km": 8350,
+    "charging_state": "disconnected",
+    "online": true,
+    "battery_capacity_kwh": 75,
+    "consumption_kwh_per_100km": 15.0,
+    "climate": {"enabled": true, "target_temperature": 24},
+    "location": {"name": "南京南站", "latitude": 31.9689, "longitude": 118.7911}
+  },
+  "A104": {
+    "model": "MC-EV1",
+    "battery_soc": 61,
+    "estimated_range_km": 228,
+    "odometer_km": 24600,
+    "charging_state": "charging",
+    "online": false,
+    "battery_capacity_kwh": 60,
+    "consumption_kwh_per_100km": 16.2,
+    "climate": {"enabled": false, "target_temperature": 22},
+    "location": {"name": "南京南站", "latitude": 31.9689, "longitude": 118.7911}
+  }
+}
