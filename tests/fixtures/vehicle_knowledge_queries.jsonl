@@ -1,0 +1,11 @@
+{"id":"battery-care","query":"动力电池平时怎么保养","expected_document_id":"battery-care"}
+{"id":"battery-temperature","query":"高温天气电池停放要注意什么","expected_document_id":"battery-care","category":"maintenance"}
+{"id":"fast-charge","query":"快充和慢充分别适合什么场景","expected_document_id":"charging-guide"}
+{"id":"charge-interrupted","query":"充电意外中断以后怎么处理","expected_document_id":"charging-guide","category":"charging"}
+{"id":"climate-energy","query":"长途出发前怎么使用空调降低能耗","expected_document_id":"climate-guide","component":"climate"}
+{"id":"defog","query":"前风挡起雾应该怎么操作","expected_document_id":"climate-guide"}
+{"id":"red-warning","query":"动力系统红色警告持续点亮怎么办","expected_document_id":"warning-lights","vehicle_models":["MC-EV1"]}
+{"id":"tire-pressure","query":"胎压提示出现后还能高速行驶吗","expected_document_id":"warning-lights"}
+{"id":"trip-station","query":"纯电长途出行如何规划途中补能","expected_document_id":"trip-planning"}
+{"id":"arrival-reserve","query":"行程规划为什么需要保留到达电量余量","expected_document_id":"trip-planning","category":"trip"}
+{"id":"unknown","query":"火星曲速引擎量子跃迁参数","expected_document_id":null}

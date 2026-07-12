@@ -1,0 +1,5 @@
+{"id":"range-001","text":"查询 A102 的剩余续航","intent":"range_query","entities":{"vehicle_id":"A102"},"missing_fields":[],"status":"ready"}
+{"id":"range-002","text":"查一下续航","intent":"range_query","entities":{},"missing_fields":["vehicle_id"],"status":"needs_clarification"}
+{"id":"climate-001","text":"关闭 A102 的空调","intent":"climate_control","entities":{"vehicle_id":"A102","climate_action":"turn_off"},"missing_fields":[],"status":"ready"}
+{"id":"navigation-001","text":"导航到南京南站","intent":"navigation_request","entities":{"destination":"南京南站"},"missing_fields":[],"status":"ready"}
+{"id":"trip-001","text":"A102 明早八点去南京南站是否需要充电","intent":"trip_charge_planning","entities":{"vehicle_id":"A102","destination":"南京南站","departure_time":"2026-08-04T08:00:00+08:00"},"missing_fields":[],"status":"ready"}
