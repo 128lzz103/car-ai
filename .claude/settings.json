@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip list *)",
+      "Bash(python -m pip install -e \".[automotive]\")",
+      "Bash(minicoder --version)",
+      "Bash(python -m minicoder --help)",
+      "Bash(pip show *)",
+      "Bash(python -c \"from minicoder.cli import main; print\\('Import successful'\\)\")",
+      "Bash(python -m minicoder.cli --analyze-intent \"查询A102的续航\")",
+      "Bash(ping -n 3 chat.openai.com)",
+      "Bash(ipconfig /all)",
+      "Bash(netsh interface *)"
+    ]
+  }
+}
